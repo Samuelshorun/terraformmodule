@@ -1,6 +1,6 @@
-# terraworks-v1-5-4
+# terraform Module Simplified wiht Varaible Uage to deploy Azure Resource group and Vnet
 
 
-<br> Teraform code tto deploy on Azure Provider
+<br> Teraform code to deploy on Azure Provider
 
-<br>Code Deploys Azure Resource Group and Virtual network 
+<br>Code Deploys Azure Resource Group and Virtual network using Module
